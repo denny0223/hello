@@ -8,3 +8,4 @@
 
 # 研討會們
 - SITCON
+- COSCUP
